@@ -1,0 +1,27 @@
+{
+  "scripts": {
+    "start": "react-native start",
+    "android": "react-native run-android",
+    "ios": "react-native run-ios"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.0.0",
+    "moment": "^2.24.0",
+    "numeral": "^2.0.6",
+    "react": "16.5.0",
+    "react-native": "0.57.1",
+    "react-native-gesture-handler": "^1.0.5",
+    "react-native-image-picker": "^0.28.1",
+    "react-navigation": "^3.4.0",
+    "react-redux": "^6.0.1",
+    "redux": "^4.0.1"
+  },
+  "devDependencies": {
+    "babel-preset-expo": "^5.0.0",
+    "babel-jest": "23.6.0",
+    "jest": "23.6.0",
+    "metro-react-native-babel-preset": "0.48.1",
+    "react-test-renderer": "16.6.0-alpha.8af6728"
+  },
+  "private": true
+}
